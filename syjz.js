@@ -1,5 +1,3 @@
-# WeiRen
-自用的脚本存放地
 /*
 Unlocks by WeiRen、Lao高
 */
